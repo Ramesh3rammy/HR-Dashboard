@@ -40,6 +40,14 @@ Every hour or certain time they shouls update there Labour sheet, lets say this 
 - Technician ranking by time in bar chart.
 - Filters for **Employee Name** and **WO Code**.
 
+## 📸 Screenshots
+
+### 🔹 Main Page
+![Main Page](images/HR-Dashboard-Main%20Page.png)
+
+### 🔹 Comments Page
+![Comments Page](images/HR-Dashboard-CommentsPage.png)
+
 ---
 
 ## 🛠️ Tools & Technologies Used
