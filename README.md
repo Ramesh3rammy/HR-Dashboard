@@ -10,9 +10,9 @@ This Power BI report is designed to analyze and monitor technician(Employee) wor
 ---
 
 ## 📌 Objectives
-Every hour or certain time they shouls update there Labour sheet, lets say this hour I worked on this, employee(Technician) must update comment, may be 30min,hour wise or certain time they used.
+Every hour or certain time they should update in Labour sheet, lets say this hour I worked on this, employee(Technician) must update with comments, may be 30min,hour wise.
 
-- Analyze technician(Employee)-wise working time and work order count to know progress of work orders or work with proper comments of each hour/mins.
+- Analyze technician(Employee)-wise working time and work order count to know progress of work orders or work with proper comments of each hour/mins they worked, its like explaining what work we did in that         particular time period.
 - Breakdown of activity types and action types, by looking these types HR finds where he really spotted the time, some imp types they should work to elligible for rewards.
 - Some rewarded actions are QUOTATION,DELIVERY,SERVICE,MARKETING,FOLLOWUP,LEAD,TENDER,DEMO
 - - Team-wise performance and employee involvement.
