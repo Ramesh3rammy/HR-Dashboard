@@ -43,10 +43,10 @@ Every hour or certain time they should update in Labour sheet, lets say this hou
 ## 📸 Screenshots
 
 ### 🔹 Main Page
-![Main Page](images/HR-Dashboard-Main%20Page.png)
+![Main Page](images/HR-Dashboard-Main%20Page.jpg)
 
 ### 🔹 Comments Page
-![Comments Page](images/HR-Dashboard-CommentsPage.png)
+![Comments Page](images/HR-Dashboard-CommentsPage.jpg)
 
 ---
 
